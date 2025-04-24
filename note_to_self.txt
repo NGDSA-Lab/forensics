@@ -1,0 +1,15 @@
+Hey genius,
+
+If you're reading this, congrats — you’ve officially joined the elite few with the power to poke around where you probably shouldn’t. No, it's not a temp backup. Yes, it looks like garbage. That's intentional. Management said we needed "enhanced obfuscation" — so I took that to mean "make it look like a digital dumpster fire."
+
+Anyway, your key to the kingdom (read: SSH access) is hidden in plain sight. Just grab the hex and bin files from this mess and toss them into CyberChef. XOR them together like it’s 1999. Boom — private key. You're welcome.
+
+Oh, and if this ever leaks, we’ll just blame the intern. Or marketing.
+
+— DevOps Dan (the only sane one left here)
+
+P.S. I asked if we could use proper secrets management. They handed me a spreadsheet and a Post-it note. So here we are.
+
+P.P.S. Technically, this is all compliant with section 4.2.7 of the “Secure Data Disposal & Ambiguous Storage Strategy” policy. Whatever that means.
+
+Also, if Jenkins starts crying again, just restart it. Or unplug something. Worked last time.
